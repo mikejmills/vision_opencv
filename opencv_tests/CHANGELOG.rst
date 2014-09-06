@@ -2,6 +2,9 @@
 Changelog for package opencv_tests
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.11.4 (2014-07-27)
+-------------------
+
 1.11.3 (2014-06-08)
 -------------------
 * remove file whose functinality is now in cv_bridge
